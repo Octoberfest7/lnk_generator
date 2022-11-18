@@ -10,3 +10,5 @@ Usage: Python3 genlnk.py template.lnk
 You can take a peek under the hood of template.lnk as well as your generated clickme.lnk by using the xxd command:
 
 xxd clickme.lnk
+
+### Read the comments within each script!
