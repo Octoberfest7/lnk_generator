@@ -1,4 +1,5 @@
 #Short powershell script to generate a template .lnk file for use with genlnk.py
+#source: https://stackoverflow.com/questions/31815286/creating-quoted-path-for-shortcut-with-arguments-in-powershell
 
 #Modify line 9 with the location you want to output your template file
 #Modify line 10 with the icon you want to use for your .lnk. NOTE: Consider whether whatever icon you select exists on the machine this is going to run on!
