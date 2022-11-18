@@ -15,9 +15,6 @@ import sys
 #Comments
 #If you want to add -w hidden to the powershell command, swap the $Shortcut.Argument variables in Template_generator.ps1 and then adjust lines 25 and 35 in this script as noted.
 
-#Alternate commands stored for testing convenience 
-#command = 'echo %CD% > c:\\users\\user\\desktop\\cd.txt'
-
 #Command to be stored in .lnk. Program assumes use of double quotes to wrap command. Make sure you use escape characters as necessary for Python!
 command = '"ping 192.168.1.150 -n 3"'
 
